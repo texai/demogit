@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 /*
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
@@ -20,6 +20,10 @@ class My_Validate_NoX extends Zend_Validate_Abstract
     const LAST_LETTER_IS_Z = 'z_as_last_letter';
     const LAST_LETTER_IS_Z = 'z_as_last_letter';
     const LAST_LETTER_IS_Z = 'z_as_last_letter';
+	
+	public function nuevaFuncion(){
+
+	}
 
     public function isValid($value, $context = null)
     {
