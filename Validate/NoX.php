@@ -16,6 +16,10 @@ class My_Validate_NoX extends Zend_Validate_Abstract
         self::LAST_LETTER_IS_X => 'El último caracter no puede ser X',
         self::LAST_LETTER_IS_Z => 'El último caracter no puede ser zeta'
     );
+    
+    public function otraFuncion(){
+        
+    }
 
     public function isValid($value, $context = null)
     {
