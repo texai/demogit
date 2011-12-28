@@ -12,6 +12,7 @@
 class My_Validate_PasswordConfirmation extends Zend_Validate_Abstract
 {
     const NOT_MATCH = 'notMatch';
+	// Ernesto
     const NOT_MATCH2 = 'notMatc222222222';
 
     protected $_messageTemplates = array(
