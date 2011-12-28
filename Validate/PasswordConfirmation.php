@@ -17,6 +17,9 @@ class My_Validate_PasswordConfirmation extends Zend_Validate_Abstract
     const CONST2 = '11';
     const CONST3 = '11';
 	
+	//Hola
+	//Hola
+	//Hola
     protected $_messageTemplates = array(
         self::NOT_MATCH => 'Los passwords no coinciden'
     );
@@ -39,6 +42,8 @@ class My_Validate_PasswordConfirmation extends Zend_Validate_Abstract
 	//HI
 
     }
+	
+	
 //freddy 
 
 }
