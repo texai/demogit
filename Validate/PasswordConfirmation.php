@@ -22,6 +22,8 @@ class My_Validate_PasswordConfirmation extends Zend_Validate_Abstract
     {
         $value = (string) $value;
         $this->_setValue($value);
+	
+	//Cambio de Mayra
 
         if (is_array($context)) {
             if (isset($context['pwd'])
