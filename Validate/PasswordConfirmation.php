@@ -13,16 +13,22 @@ class My_Validate_PasswordConfirmation extends Zend_Validate_Abstract
 {
     const NOT_MATCH = 'notMatch';
     const NOT_MATCH2 = 'notMatc222222222';
+<<<<<<< HEAD
 
 		
+=======
+	
+>>>>>>> ab46cd00861ad257057000d4a7b7fdae3dd18c9d
     protected $_messageTemplates = array(
         self::NOT_MATCH => 'Los passwords no coinciden'
     );
-
+	//IO
     public function isValid($value, $context = null)
     {
         $value = (string) $value;
         $this->_setValue($value);
+	
+	//Cambio de Mayra
 
         if (is_array($context)) {
             if (isset($context['pwd'])
@@ -32,9 +38,15 @@ class My_Validate_PasswordConfirmation extends Zend_Validate_Abstract
         } elseif (is_string($context) && ($value == $context)) {
             return true;
         }
-
+	//HI
 
     }
+//freddy 
 
 	//probando update en ZEND
+	
+	
+	
+	
+	//OMAR - ZEND
 }
