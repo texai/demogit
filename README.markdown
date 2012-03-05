@@ -7,7 +7,7 @@ As part of Zend Framwork classes, I teach a versioning system, usually git.
 - `zf create project demogit`
 
 
-Installation 2
+Installation 4
 ------------
 
 Add the DavidBaduraFixturesBundle to your application kernel:
