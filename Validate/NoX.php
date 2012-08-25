@@ -10,6 +10,8 @@
 class My_Validate_NoX extends Zend_Validate_Abstract
 {
     const LAST_LETTER_IS_X = 'x_as_last_letter';
+    const LAST_LETTER_IS_X2 = 'x_as_last_letter';
+    const LAST_LETTER_IS_X3 = 'x_as_last_letter';
     const LAST_LETTER_IS_Z = 'z_as_last_letter';
 
     protected $_messageTemplates = array(
