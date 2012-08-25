@@ -40,5 +40,8 @@ class My_Validate_NoX extends Zend_Validate_Abstract
 
 
     }
+    public function otraFuncion2(){
+        
+    }
 
 }
