@@ -1,2 +1,8 @@
 steve_seven_7@hotmai.com.pe
+<<<<<<< HEAD
+
+php zend
+
+=======
 your e-mail
+>>>>>>> 3c168e40213c21ced83bdfd8c09513c12e4101a8
