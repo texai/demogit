@@ -21,7 +21,12 @@ class My_Validate_NoX extends Zend_Validate_Abstract
     );
     
     public function otraFuncion(){
-        
+        // la voy a implemtar de una forma
+        // la voy a implemtar de una forma
+        // la voy a implemtar de una forma
+        // la voy a implemtar de una forma
+        // la voy a implemtar de una forma
+        // la voy a implemtar de una forma
     }
 
     public function isValid($value, $context = null)
@@ -41,8 +46,6 @@ class My_Validate_NoX extends Zend_Validate_Abstract
 
 
     }
-    public function otraFuncion2(){
-        
-    }
+
 
 }
