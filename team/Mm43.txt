@@ -1,0 +1,9 @@
+<?php
+$ad="xddd";
+
+
+echo $ad;
+
+
+
+?>

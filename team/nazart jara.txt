@@ -1,3 +1,14 @@
 nazarjb@hotmail.com
+<<<<<<< HEAD
+nazartj@gmail.com.
+=======
+<<<<<<< HEAD
 xxxxxxxxxxxxxxx
 nazartj@gmail.com
+
+hola
+=======
+xxxxxxxxxxxxxxy
+nazartj@gmail.com
+>>>>>>> 3c168e40213c21ced83bdfd8c09513c12e4101a8
+>>>>>>> 80d3a1395465343a7c7f190927fb815b195fe9a7

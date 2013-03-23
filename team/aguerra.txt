@@ -1,6 +1,15 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 sdlfjlksdjflksflksdlkf
 hola
 =======
 test
 >>>>>>> 5a785a2a62211490a08419f12e0cb98d44f4e2a6
+=======
+
+sdlfjlksdjflksflksdlkf
+
+22222220
+
+4accb6f92fbf68975c3e1975d166daef976224a8
+>>>>>>> afc76e6e850a99ef58f4372fdebe38b217a8304b
