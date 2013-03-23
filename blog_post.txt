@@ -2,6 +2,5 @@ LEAN ESTE ARTICULO
 http://nvie.com/posts/a-successful-git-branching-model/
 
 hola
-hola
 
 ES INTERESANTE
