@@ -21,7 +21,9 @@ class My_Validate_NoX extends Zend_Validate_Abstract
     );
     
     public function otraFuncion(){
-        
+       // implementar de otra forma 
+       // implementar de otra forma 
+       // implementar de otra forma 
     }
 
     public function isValid($value, $context = null)
@@ -41,7 +43,8 @@ class My_Validate_NoX extends Zend_Validate_Abstract
 
 
     }
-    public function otraFuncion2(){
+
+    public function otraFuncio33(){
         
     }
 
