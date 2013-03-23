@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 sdlfjlksdjflksflksdlkf
 hola
+=======
+test
+>>>>>>> 5a785a2a62211490a08419f12e0cb98d44f4e2a6
