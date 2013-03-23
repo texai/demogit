@@ -1,3 +1,11 @@
 Prueba Romer Vargas
-
+<<<<<<< HEAD
+naada
 Modificacion con correo y nombre de usuario
+=======
+
+hola
+
+ls nestor torres
+
+>>>>>>> afc76e6e850a99ef58f4372fdebe38b217a8304b
