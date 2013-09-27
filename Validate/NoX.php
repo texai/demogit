@@ -49,9 +49,14 @@ class My_Validate_NoX extends Zend_Validate_Abstract
 //	
 //
 //
+    public function otraFuncio77(){
+        /*Esta
+es
+otra 
+function
+*/
     }
 
     public function otraFuncio33(){
     }
-
 }
